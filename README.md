@@ -66,28 +66,6 @@ This project attempts to reimplement reframe's API and extend it to include more
   - Purpose: Performs antijoin on two relations (self and other), on the given condition
   - Output: A new relation, resulting from the outerjoin operation
 
-## Installation
-
-1. Clone the repository: git clone git@github.com:sturekev/Final-Project-440.git
-2. Create and Activate (Windows/Ubuntu) an Environment for Python: python3 -m venv venv
-
-- **Windows**:
-  ```
-  .\venv\Scripts\activate
-  ```
-
-- **Ubuntu**:
-  ```
-  source .\venv\bin\activate
-  ```
-
-3. Install the required dependencies: pip install -r requirements.txt
-
-4. Run the application or use the application:
-
-- Run: `python3 tinycollege.py`
-- Use as package: `from reframe import Relation`
-
 ## Contributors:
 
 - Truong Phat(Kevin) Tu - Luther College
